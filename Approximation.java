@@ -14,7 +14,7 @@ public class Approximation
 		double a = 0.0;
 		double b = 1.0;
 		int n = 0;
-		System.out.println ("n\t Simpson's Approx.\tTrapeziod Approx.");
+		System.out.println ("n\t Simpson's Approx.\tTrapezoid Approx.");
 		while (n <= 20) //creates a table showing approximations from n=2 to n=20
 		{
 			n = n+2;	//makes approximations by increasing the partitions by 2
